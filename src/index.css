@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.hi{
+  background-color: chartreuse;
+}
+.hey{
+  background-color: blueviolet;
+}
+.box{
+  background-color:purple;
+  width: 100px;
+  height: 100px;
+}
+th,td,table{
+
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 70%;
+  
+}
+
