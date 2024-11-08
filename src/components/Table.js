@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-const Table = ({todolist,deleteit,handleEdit,}) => { 'p'
+const Table = ({todolist,deleteit,handleEdit}) => { 'p'
   return (
   <table>
     <thead>
